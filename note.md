@@ -3,4 +3,7 @@
 
 ### 两种方式
 1. HashRouter: 利于hash实现路由切换
+  - location.hash
 2. BrowserRouter：利于H5 API实现路由的切换
+  - pushState
+  - popState
